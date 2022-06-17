@@ -50,7 +50,7 @@ accuracy
 Data Head:
 
 
-(![r1](https://user-images.githubusercontent.com/94165957/174222567-0ed3e454-51f7-448f-ac77-e27da35d382c.png)
+![r1](https://user-images.githubusercontent.com/94165957/174222567-0ed3e454-51f7-448f-ac77-e27da35d382c.png)
 
 
 Data info:
