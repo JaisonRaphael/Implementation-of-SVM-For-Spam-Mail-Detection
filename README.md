@@ -22,6 +22,7 @@ Developed by: V.JaisonRaphael
 RegisterNumber:  212221230038
 */
 ```
+~~~
 import pandas as pd
 data=pd.read_csv("spam.csv",encoding='latin-1')
 data.head()
@@ -43,17 +44,36 @@ y_pred
 from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
+~~~
 
 ## Output:
 Data Head:
+
+
 (![r1](https://user-images.githubusercontent.com/94165957/174222567-0ed3e454-51f7-448f-ac77-e27da35d382c.png)
+
+
 Data info:
+
+
 ![r2](https://user-images.githubusercontent.com/94165957/174222660-fc0edd68-5bf7-4b57-b153-671166427ef1.png)
+
+
 Data isnull():
+
+
 ![r3](https://user-images.githubusercontent.com/94165957/174222737-fad6b01b-94cf-4518-a67f-c714548dfd7c.png)
+
+
 y_pred:
+
+
 ![r4](https://user-images.githubusercontent.com/94165957/174222783-effb792c-3406-4cec-acaf-86f8396b3c72.png)
+
+
 Accuracy:
+
+
 ![r5](https://user-images.githubusercontent.com/94165957/174222805-395a466e-e086-491f-96ab-2fec419be0a1.png)
 
 
